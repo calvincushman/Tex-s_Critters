@@ -1,0 +1,36 @@
+body {
+  background-color: #ffea35;
+  text-align: center;
+  font-family: 'Barrio', cursive;
+}
+.column {
+  margin-left: 60px;
+  float:left;
+  width: 250px;
+  background-color: #d8a302;
+  padding: 10px;
+  border-radius: 3px;
+  font-family: monospace;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 250px;
+  max-height: auto;
+}
+
+.column p {
+  border: solid 2px pink;
+  padding: 3px;
+}
+
+.Names {
+  margin-left: 60px;
+  float:left;
+  width: 250px;
+  font-family: monospace;
+  font-size: 30;
+}
+ .Names h3 {
+   text-decoration: underline;
+ }
