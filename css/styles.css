@@ -8,6 +8,11 @@ body {
   background-position: 100% 100%;
 }
 
+.header {
+  border: solid 2px green;
+  background: brown;
+}
+
 .badge1 {
   float: left;
   max-width: 120px;
