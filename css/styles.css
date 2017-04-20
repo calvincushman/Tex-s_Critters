@@ -2,7 +2,24 @@ body {
   background-color: #ffea35;
   text-align: center;
   font-family: 'Barrio', cursive;
+  margin: 30px;
+  background-image: url(https://img.clipartfox.com/d44fdeb724837a1d72d78c653518b59e_-desert-sunset-by-retorman-beautiful-sunset-hd-clipart_1920-1052.jpeg);
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
 }
+
+.badge1 {
+  float: left;
+  max-width: 120px;
+  max-height: auto;
+}
+
+.badge2 {
+  float: right;
+  max-width: 120px;
+  max-height: auto;
+}
+
 .column {
   margin-left: 60px;
   float:left;
@@ -25,6 +42,7 @@ img {
 }
 
 .Names {
+  color: yellow;
   margin-left: 60px;
   float:left;
   width: 250px;
