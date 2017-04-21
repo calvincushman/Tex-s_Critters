@@ -5,12 +5,17 @@ body {
   margin: 30px;
   background-image: url(https://img.clipartfox.com/d44fdeb724837a1d72d78c653518b59e_-desert-sunset-by-retorman-beautiful-sunset-hd-clipart_1920-1052.jpeg);
   background-repeat: no-repeat;
-  background-position: 100% 100%;
+  background-size: cover;
 }
 
 .header {
   border: solid 2px green;
   background: brown;
+  padding: 12px;
+}
+
+.biteSign {
+  background-image: url(http://www.freeiconspng.com/uploads/signboard-png-2.png);
 }
 
 .badge1 {
